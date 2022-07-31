@@ -1,6 +1,6 @@
 # Adapted from: https://github.com/humanmade/alpine-v8
-ARG v8_version=9.6.180.12
-ARG GN_COMMIT=0153d369bbccc908f4da4993b1ba82728055926a
+ARG v8_version=10.2.154.4
+ARG GN_COMMIT=ae110f8b525009255ba1f9ae96982176d3bfad3d
 
 # STEP 1
 # Build GN for alpine
