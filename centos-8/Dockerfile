@@ -1,4 +1,4 @@
-FROM centos:8
+FROM rockylinux/rockylinux:8
 
 ARG v8_version=8.3.110.13
 ENV version=$v8_version
